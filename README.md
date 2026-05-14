@@ -1,57 +1,47 @@
-# 🚌 Bus Booking System (Java Swing)
+# 🚌 Bus Booking System (Java Console Application)
 
-A desktop-based Bus Booking System developed using Java Swing that allows users to register, login, search buses, book seats, and manage booking history.
+A simple console-based Bus Booking System built using Java that allows users to book bus tickets through text input. This project focuses on core Java logic and user interaction through the terminal.
 
 ---
 
 ## 📌 Features
 
-- User Registration and Login System
-- Multiple Bus Selection (Route, Type, Time, Price)
-- Interactive Seat Booking System
-- Seat Locking (Prevents double booking)
-- Cancel Booking Feature
-- Payment Options (Cash / UPI / Card Simulation)
-- User-wise Booking History
-- Logout functionality
+- Bus selection using console menu
+- Seat booking using numeric input
+- Basic user input validation
+- Simple booking confirmation messages
+- View booking details in console
+- Lightweight and easy to run
 
 ---
 
 ## 🛠️ Technologies Used
 
 - Java
-- Swing (GUI)
-- AWT
-- Collections Framework (HashMap, ArrayList, HashSet)
-
----
-
-## 📂 Project Structure
-
-- Single-class Swing application
-- In-memory data storage (no external database)
+- Object-Oriented Programming (OOP)
+- Scanner class for input handling
+- Arrays and basic control statements
 
 ---
 
 ## ▶️ How to Run
 
 1. Open project in Eclipse / IntelliJ
-2. Compile and run `SwiingsBus.java`
-3. Register a new user
-4. Login with credentials
-5. Select bus, choose seat and book ticket
+2. Compile Java file
+3. Run the program
+4. Follow console instructions to book tickets
 
 ---
 
 ## 🎯 Learning Outcomes
 
-- GUI development using Java Swing
-- Event handling in Java
-- Object-oriented programming
-- Data structure usage in real application
+- Strengthened Java fundamentals
+- Improved logical thinking and problem solving
+- Understanding of loops, conditions, and input handling
+- Built basic command-line application flow
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Project Type
 
-Developed as a mini project for learning Java Swing desktop applications 
+Console-based mini project for practicing Java fundamentals.
